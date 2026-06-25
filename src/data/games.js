@@ -54,7 +54,7 @@ export const GAMES = [
   },
   {
     slug: "live-casino",
-    title: "live casino",
+    title: "live Casino",
     tag: "🔥 Popular Game",
     accent: "plasma",
     infoOnly: true,
